@@ -5,10 +5,10 @@
     xmlns:app="http://schemas.android.com/apk/res-auto"
     android:layout_width="match_parent"
     android:layout_height="70dp"
-    app:mrl_rippleAlpha="0.2"
-    app:mrl_rippleColor="#585858"
-    app:mrl_rippleHover="true"
-    app:mrl_rippleOverlay="true">
+    app:rippleAlpha="0.2"
+    app:rippleColor="#585858"
+    app:rippleHover="true"
+    app:rippleOverlay="true">
 
     <TextView
         android:id="@android:id/text1"
