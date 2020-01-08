@@ -47,7 +47,7 @@ public class MaterialRippleLayout extends FrameLayout {
     private static final boolean DEFAULT_DELAY_CLICK     = true;
     private static final boolean DEFAULT_PERSISTENT      = false;
     private static final boolean DEFAULT_SEARCH_ADAPTER  = false;
-    private static final boolean DEFAULT_RIPPLE_OVERLAY  = false;
+    private static final boolean DEFAULT_RIPPLE_OVERLAY  = true;
     private static final int     DEFAULT_ROUNDED_CORNERS = 0;
 
     private static final int  FADE_EXTRA_DELAY = 50;
